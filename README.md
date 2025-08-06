@@ -14,6 +14,16 @@ This Streamlit web app recommends the most relevant candidates for a job based o
 - Uses a **free Hugging Face summarizer** (`distilbart-cnn-12-6`) to explain fit
 
 ---
+
+## 🛠️ Tech Stack
+
+- [Streamlit](https://streamlit.io/)
+- [Sentence Transformers](https://www.sbert.net/)
+- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- Scikit-learn
+- PyPDF2
+
+---
 ## 🚀 How to Run Locally
 
 ```bash
