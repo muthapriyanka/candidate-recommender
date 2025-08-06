@@ -1,0 +1,12 @@
+# streamlit
+# sentence-transformers
+# scikit-learn
+# PyPDF2
+# openai
+
+streamlit
+sentence-transformers
+scikit-learn
+transformers
+torch
+PyPDF2
